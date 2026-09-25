@@ -1,0 +1,15 @@
+{
+  "name": "kia-proxy-bot",
+  "version": "1.0.0",
+  "description": "Advanced Telegram Proxy Bot with Admin Panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
